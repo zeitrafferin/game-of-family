@@ -1,5 +1,4 @@
 
-# game-of-family
 # Game of Family 
 **Game of Family** is an innovative tool designed to help users visualize their family history in a unique and engaging way. By using an interactive timeline and gamification features, family members, events, and memories are brought to life. 
 ## Features 
